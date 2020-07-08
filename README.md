@@ -2,7 +2,7 @@
 The Getting and Cleaning Data Course Project repository contains all documents for evaluate the final course project of Getting and Cleaning Data
 from Coursera.
 
-##Script description
+#Script description
 1.Merges the training and the test sets to create one data set.
 2.Extracts only the measurements on the mean and standard deviation for each measurement.
 3.Uses descriptive activity names to name the activities in the data set
@@ -11,10 +11,10 @@ from Coursera.
 
 The code present in run_analysis.R script is divided in 6 part, for each par you can see a simple description
 
-##Library Prerequisites
+#Library Prerequisites
 1.dplyr
 
-##Variables Code Book
+#Variables Code Book
 You can find feature and activity list information in this three file:
 - features_info.txt
 - features.txt
