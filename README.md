@@ -39,6 +39,7 @@ Dataset has 68 variables (columns) the last 66 are given from the mean and std m
 - fBodyAccJerkMag
 - fBodyGyroMag
 - fBodyGyroJerkMag
+
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions. First two are:
 
 - Subject ID
